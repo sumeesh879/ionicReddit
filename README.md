@@ -3,7 +3,8 @@ Ionic App using Reddit data which runs on android, iOS and Windows device
 
 ## Screenshots
 
-![alt text](screenshots/home.PNG | height=100 "Home Page -  This is opening/welcome page to the application")
-![alt text](screenshots/category.PNG "Changing Category")
-![alt text](screenshots/settings.PNG "Setting Page")
-![alt text](screenshots/details.PNG "Details of posts")
+<img src="https://github.com/sumeesh879/ionicReddit/blob/master/screenshots/home.PNG" width="48">
+<img src="https://github.com/sumeesh879/ionicReddit/blob/master/screenshots/category.PNG" width="50">
+<img src="https://github.com/sumeesh879/ionicReddit/blob/master/screenshots/details.PNG" width="48">
+<img src="https://github.com/sumeesh879/ionicReddit/blob/master/screenshots/settings.PNG" width="48">
+
